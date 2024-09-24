@@ -1,0 +1,28 @@
+user_id, song_id, artist, genre, user_rating
+1, 101, Taylor Swift, Pop, 5
+2, 102, Ed Sheeran, Pop, 4
+1, 103, Drake, Hip-Hop, 3
+3, 104, Billie Eilish, Pop, 5
+2, 105, Eminem, Hip-Hop, 5
+3, 106, The Weeknd, R&B, 4
+1, 107, Ariana Grande, Pop, 4
+2, 108, Kendrick Lamar, Hip-Hop, 5
+3, 109, Rihanna, R&B, 3
+1, 110, Shawn Mendes, Pop, 3
+2, 111, Post Malone, Hip-Hop, 4
+3, 112, Justin Bieber, Pop, 4
+1, 113, Cardi B, Hip-Hop, 2
+2, 114, Bruno Mars, R&B, 5
+3, 115, Halsey, Pop, 3
+1, 116, Lil Wayne, Hip-Hop, 4
+2, 117, Doja Cat, R&B, 5
+3, 118, SZA, R&B, 4
+1, 119, Travis Scott, Hip-Hop, 5
+2, 120, Khalid, R&B, 4
+3, 121, Adele, Pop, 5
+1, 122, J. Cole, Hip-Hop, 4
+2, 123, Beyoncé, R&B, 5
+3, 124, Lizzo, Pop, 3
+1, 125, Megan Thee Stallion, Hip-Hop, 4
+2, 126, Dua Lipa, Pop, 4
+3, 127, Frank Ocean, R&B, 5
